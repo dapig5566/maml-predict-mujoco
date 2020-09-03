@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfef59a3-1704-4b08-b1a7-e2c81e18cdf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/maml-predict.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/maml-predict.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAML_Exp.ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/MAML_Exp.ckpt.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAML_Exp.ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/MAML_Exp.ckpt.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAML_Exp.ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/MAML_Exp.ckpt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies.py" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env_wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/env_wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experience_replay.py" beforeDir="false" afterPath="$PROJECT_DIR$/experience_replay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maml.py" beforeDir="false" afterPath="$PROJECT_DIR$/maml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model archives/obenc_cutzero_traj30_ib20/资源变少之后平均轨迹更直（大多向4角直奔）.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ob_0.npy" beforeDir="false" afterPath="$PROJECT_DIR$/ob_0.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ob_1.npy" beforeDir="false" afterPath="$PROJECT_DIR$/ob_1.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ob_2.npy" beforeDir="false" afterPath="$PROJECT_DIR$/ob_2.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ob_3.npy" beforeDir="false" afterPath="$PROJECT_DIR$/ob_3.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subproc_vec_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/subproc_vec_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="136a21e5-7cfe-43db-ba6f-9d0e67c4f1f6" />
+  <component name="ProjectId" id="1aqCbTP5kGHfyLvG0s8xu41h4tD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\THOUSANDSTUDIO\DeepWork\Meta-Learning\wrml\maml-predict" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="maml-predict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experience_replay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maml-predict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experience_replay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maml-predict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maml-predict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maml-predict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="maml-predict" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.plot" />
+      <item itemvalue="Python.utils" />
+      <item itemvalue="Python.trainer" />
+      <item itemvalue="Python.experience_replay" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.experience_replay" />
+        <item itemvalue="Python.trainer" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfef59a3-1704-4b08-b1a7-e2c81e18cdf6" name="Default Changelist" comment="" />
+      <created>1587453807427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587453807427</updated>
+      <workItem from="1587453809250" duration="10858000" />
+      <workItem from="1587604628507" duration="44000" />
+      <workItem from="1587604713793" duration="605000" />
+      <workItem from="1587726305596" duration="7313000" />
+      <workItem from="1587953995717" duration="135000" />
+      <workItem from="1587985468579" duration="1532000" />
+      <workItem from="1588061642353" duration="15609000" />
+      <workItem from="1588124001136" duration="35665000" />
+      <workItem from="1588211727371" duration="2411000" />
+      <workItem from="1588301530493" duration="10914000" />
+      <workItem from="1588386359802" duration="5217000" />
+      <workItem from="1588402348871" duration="407000" />
+      <workItem from="1588402921194" duration="3646000" />
+      <workItem from="1588414661226" duration="88000" />
+      <workItem from="1588426671125" duration="4044000" />
+      <workItem from="1588476078661" duration="4801000" />
+      <workItem from="1588495582891" duration="16845000" />
+      <workItem from="1588580411590" duration="16910000" />
+      <workItem from="1588665529962" duration="6849000" />
+      <workItem from="1588731249861" duration="25252000" />
+      <workItem from="1588849936201" duration="13513000" />
+      <workItem from="1588902098263" duration="14985000" />
+      <workItem from="1588911249526" duration="8220000" />
+      <workItem from="1588927219716" duration="2000" />
+      <workItem from="1588927230158" duration="24000" />
+      <workItem from="1588991947360" duration="29656000" />
+      <workItem from="1589082070342" duration="31304000" />
+      <workItem from="1589137368241" duration="33418000" />
+      <workItem from="1589268269638" duration="6000000" />
+      <workItem from="1589338838390" duration="115000" />
+      <workItem from="1589338970110" duration="246000" />
+      <workItem from="1589339382073" duration="183000" />
+      <workItem from="1589341293311" duration="8147000" />
+      <workItem from="1589455058703" duration="2761000" />
+      <workItem from="1589509120042" duration="360701000" />
+      <workItem from="1591800110157" duration="9831000" />
+      <workItem from="1592569025050" duration="1039000" />
+      <workItem from="1592719340077" duration="599000" />
+      <workItem from="1592811354290" duration="221900000" />
+      <workItem from="1594206055291" duration="53145000" />
+      <workItem from="1594460445702" duration="3264000" />
+      <workItem from="1594575186970" duration="4547000" />
+      <workItem from="1594920169050" duration="10190000" />
+      <workItem from="1594995351183" duration="64676000" />
+      <workItem from="1595825565615" duration="1094000" />
+      <workItem from="1595862096977" duration="45062000" />
+      <workItem from="1596157754302" duration="43295000" />
+      <workItem from="1596298958077" duration="73801000" />
+      <workItem from="1596591629269" duration="647000" />
+      <workItem from="1596628957505" duration="607000" />
+      <workItem from="1596898014990" duration="864000" />
+      <workItem from="1596949407964" duration="14665000" />
+      <workItem from="1597299191341" duration="19038000" />
+      <workItem from="1597336132877" duration="5533000" />
+      <workItem from="1597375378675" duration="482000" />
+      <workItem from="1597384769541" duration="17148000" />
+      <workItem from="1597418642296" duration="5272000" />
+      <workItem from="1597458767977" duration="6012000" />
+      <workItem from="1597571668167" duration="29935000" />
+      <workItem from="1597724281162" duration="7275000" />
+      <workItem from="1597984380878" duration="1662000" />
+      <workItem from="1598013601126" duration="3090000" />
+      <workItem from="1598025012149" duration="48296000" />
+      <workItem from="1598271710980" duration="587000" />
+      <workItem from="1598421273441" duration="785000" />
+      <workItem from="1598538786585" duration="5740000" />
+      <workItem from="1598589706513" duration="5302000" />
+      <workItem from="1598601217693" duration="13085000" />
+      <workItem from="1598769562193" duration="86000" />
+      <workItem from="1598769773255" duration="102000" />
+      <workItem from="1598769901803" duration="8009000" />
+      <workItem from="1598851723976" duration="7378000" />
+      <workItem from="1598868662026" duration="49000" />
+      <workItem from="1598870783195" duration="4491000" />
+      <workItem from="1598932671020" duration="15837000" />
+      <workItem from="1599053815046" duration="8443000" />
+      <workItem from="1599134315653" duration="30000" />
+      <workItem from="1599134386133" duration="2273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="110" key="#Deployment" timestamp="1598851777886">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="383" y="110" key="#Deployment/0.0.1842.1080@0.0.1842.1080" timestamp="1598851777886" />
+    <state x="146" y="142" width="1272" height="678" key="DirDiffDialog" timestamp="1594106747881">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="146" y="142" width="1272" height="678" key="DirDiffDialog/0.0.1458.864@0.0.1458.864" timestamp="1594106747881" />
+    <state x="586" y="248" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598613062729">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="494" y="218" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1598175554413" />
+    <state x="624" y="273" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1598543516105" />
+    <state x="586" y="248" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1598613062729" />
+    <state width="1415" height="336" key="GridCell.Tab.0.bottom" timestamp="1599101061988">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="336" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1599055400787" />
+    <state width="1415" height="336" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1599101061988" />
+    <state width="1479" height="375" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1598848357737" />
+    <state width="1415" height="336" key="GridCell.Tab.0.center" timestamp="1599101061987">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="336" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1599055400787" />
+    <state width="1415" height="336" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1599101061987" />
+    <state width="1479" height="375" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1598848357737" />
+    <state width="1415" height="336" key="GridCell.Tab.0.left" timestamp="1599101061987">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="336" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1599055400787" />
+    <state width="1415" height="336" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1599101061987" />
+    <state width="1479" height="375" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1598848357737" />
+    <state width="1415" height="336" key="GridCell.Tab.0.right" timestamp="1599101061987">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="336" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1599055400787" />
+    <state width="1415" height="336" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1599101061987" />
+    <state width="1479" height="375" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1598848357737" />
+    <state width="1799" height="363" key="GridCell.Tab.1.bottom" timestamp="1596069775578">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.bottom/0.0.1458.864@0.0.1458.864" timestamp="1591415030282" />
+    <state width="1799" height="363" key="GridCell.Tab.1.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1596069775578" />
+    <state width="1799" height="363" key="GridCell.Tab.1.center" timestamp="1596069775578">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.center/0.0.1458.864@0.0.1458.864" timestamp="1591415030282" />
+    <state width="1799" height="363" key="GridCell.Tab.1.center/0.0.1842.1080@0.0.1842.1080" timestamp="1596069775578" />
+    <state width="1799" height="363" key="GridCell.Tab.1.left" timestamp="1596069775578">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.left/0.0.1458.864@0.0.1458.864" timestamp="1591415030282" />
+    <state width="1799" height="363" key="GridCell.Tab.1.left/0.0.1842.1080@0.0.1842.1080" timestamp="1596069775578" />
+    <state width="1799" height="363" key="GridCell.Tab.1.right" timestamp="1596069775578">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1415" height="277" key="GridCell.Tab.1.right/0.0.1458.864@0.0.1458.864" timestamp="1591415030282" />
+    <state width="1799" height="363" key="GridCell.Tab.1.right/0.0.1842.1080@0.0.1842.1080" timestamp="1596069775578" />
+    <state x="292" y="93" key="SettingsEditor" timestamp="1598851909788">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="231" y="74" key="SettingsEditor/0.0.1458.864@0.0.1458.864" timestamp="1593092340130" />
+    <state x="292" y="93" key="SettingsEditor/0.0.1842.1080@0.0.1842.1080" timestamp="1598851909788" />
+    <state x="310" y="102" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1598601265557" />
+    <state x="686" y="181" key="ftp.server.browser" timestamp="1598851855682">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="686" y="181" key="ftp.server.browser/0.0.1842.1080@0.0.1842.1080" timestamp="1598851855682" />
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1594290397912">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1458.864@0.0.1458.864" timestamp="1594290397912" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/2033474478/1787416919/tensorflow_core/python/ops/gradients_impl.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maml.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maml.py</url>
+          <line>377</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maml_predict$baseline.coverage" NAME="baseline Coverage Results" MODIFIED="1589188493600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$mass_point.coverage" NAME="mass_point Coverage Results" MODIFIED="1588213507265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1591368772474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$main.coverage" NAME="main Coverage Results" MODIFIED="1598848357724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$models.coverage" NAME="models Coverage Results" MODIFIED="1590338912071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$point_mass2d.coverage" NAME="point_mass2d Coverage Results" MODIFIED="1590822340029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$maml__1_.coverage" NAME="maml (1) Coverage Results" MODIFIED="1588346463111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict_mujoco$main.coverage" NAME="main Coverage Results" MODIFIED="1599055313778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$plot.coverage" NAME="plot Coverage Results" MODIFIED="1593332999934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$loader.coverage" NAME="loader Coverage Results" MODIFIED="1588145083620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maml_predict$maml.coverage" NAME="maml Coverage Results" MODIFIED="1593868617008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
